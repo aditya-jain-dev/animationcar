@@ -14,7 +14,7 @@
 }
 
 .highway {
-    background: url(/road.jpg);
+    background: url(road.jpg);
     height: 200px;
     width: 1000%;
     position: absolute;
