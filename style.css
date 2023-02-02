@@ -34,7 +34,7 @@
 }
 
 .city {
-    background: url(/city.png);
+    background: url(city.png);
     height: 250px;
     width: 1000%;
     position: absolute;
